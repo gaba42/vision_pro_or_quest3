@@ -1,2 +1,2 @@
-# nascar_or_f1_classifier
+# vision pro or quest3?
 pytorch classifier
